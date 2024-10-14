@@ -24,7 +24,7 @@ Furthermore, using [twitter-advanced-search](https://github.com/igorbrigadir/twi
 1. Clone the repository:
    ```bash
    git clone https://github.com/yeahjjyy/tweet-scraper.git
-   cd yourproject
+   cd tweet-scraper
 2. Create a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
