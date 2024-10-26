@@ -276,10 +276,10 @@ if __name__ == '__main__':
     twitter = Twitter(user_data_dir='C:/Users/USER/Desktop/work_content/user-data1/', remote_debugging_port=9223)
     url = "https://x.com/explore"
     twitter.browser.get(url=url)
-    # set Cookie
+    # set Cookie https://1-usd-promotion.com/how-to-get-auth-token
     cookie = {
         'name': 'auth_token',
-        'value': '5f45eda1b32ec30c38ffc03a35f09993f9ed9279',
+        'value': '',
         'domain': '.x.com'
     }
 
