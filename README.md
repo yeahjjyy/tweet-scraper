@@ -1,4 +1,4 @@
-# tweet-scraper
+# tweet-scraper | twitter followers-scraper | twitter following-scraper
 
 ## Description
 
