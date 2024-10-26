@@ -2,7 +2,9 @@
 
 ## Description
 
-Learn how to scrape Twitter tweets using Python and Selenium. Automate data collection with [advanced search](https://github.com/igorbrigadir/twitter-advanced-search) features for precise insights.
+- Learn how to scrape Twitter tweets using Python and Selenium. Automate data collection with [advanced search](https://github.com/igorbrigadir/twitter-advanced-search) features for precise insights.
+- Scrape Twitter Followers with Python and Selenium
+- Effortlessly Scrape Twitter Following Data with Python & Selenium
 
 ## Example of Scraped Tweets Data
 
