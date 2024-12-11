@@ -7,7 +7,7 @@
 - Effortlessly Scrape Twitter Following Data with Python & Selenium
 
 ## API
-Yout can use APIs from [Apify](https://apify.com/fastcrawler/tweet-fast-scraper)
+Yout can use APIs from [Apify](https://apify.com/)
 
 ## Example of Scraped Tweets Data
 
